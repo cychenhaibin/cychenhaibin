@@ -17,7 +17,7 @@
 - ⚡ Fun fact: all
 
 
-![HuiDBK's github activity graph](https://https://github.com/cychenhaibin/cychenhaibin/tree/output/github-contribution-grid-snake.svg)
+![HuiDBK's github activity graph](https://github.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
