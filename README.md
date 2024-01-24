@@ -17,7 +17,8 @@
 - ⚡ Fun fact: all
 
 
-![HuiDBK's github activity graph](https://github.com/cychenhaibin/cychenhaibin/tree/output/github-contribution-grid-snake.svg)
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
@@ -53,12 +54,7 @@
     <td><img src="https://stats.justsong.cn/api/csdn?id=m0_73592256"&hide_border=true" alt="cychenhaibin的CSDN" style="zoom:100%;" align="left"/></td>
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=336888011687869&hide_border=true" alt="cychenhaibin的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
-</table>
-
-#### My CSDN
-<div align="left">
-	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
-</div>                      
+</table>     
 
 
 #### Top Repositories
