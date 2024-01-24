@@ -1,10 +1,12 @@
 ### Hi there 👋
 ### 你好，世界 👋
+
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
+😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗☺️😚😙🥲😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑😶😏😒🙄😬🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯🤠🥳🥸😎🤓🧐😕😟🙁☹️😮😯😲😳🥺😦😧😨😰😥😢😭😱😖😣😞😓😩😫🥱😤😡😠🤬
 
 <!--GitHub 连续打卡-->
 <div align="center">
@@ -21,12 +23,6 @@
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychenhaibin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<!--GitHub 活动统计图-->
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=cychenhaibin&theme=xcode" />
-</div>
-
-
 
 
 <div align="center">
@@ -38,10 +34,6 @@
 	<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
 </div>
 
-<!--GitHub 访客徽章-->
-<div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=cychenhaibin" />
-</div>
 
 <!--GitHub 徽章-->
 <span >
