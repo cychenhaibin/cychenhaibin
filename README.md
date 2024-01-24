@@ -17,7 +17,7 @@
 - ⚡ Fun fact: all
 
 
-![HuiDBK's github activity graph](https://github.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
+![HuiDBK's github activity graph](https://github.com/cychenhaibin/cychenhaibin/tree/output/github-contribution-grid-snake.svg)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
@@ -50,7 +50,7 @@
 
 <table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://stats.justsong.cn/api/csdn?id=m0_73592256"&hide_border=true" alt="cychenhaibin的CSDN" style="zoom:100%;" align="left"/></td>
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=336888011687869&hide_border=true" alt="cychenhaibin的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
@@ -70,15 +70,6 @@
 <a href="https://github.com/cychenhaibin/Shop_Vue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cychenhaibin&repo=Shop_Vue&theme=buefy" />
 </a>
-
-<p>
-  <a href="https://github.com/cychenhaibin/K-means-Algorithm">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&K-means-Algorithm&theme=vue-light" />
-  </a>
-   <a href="https://github.com/cychenhaibin/Shop_Vue">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&Shop_Vue&theme=vue-light" />
-  </a>
-</p>
 
                         
 
