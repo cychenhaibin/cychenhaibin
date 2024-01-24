@@ -1,17 +1,3 @@
-### Hi there 👋
-### 你好，世界 👋
-
-
-
-### My CSDN
-<div align="left">
-	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
-</div>
-
-<!--GitHub 资料奖杯-->
-<div align="left">
-	<img  src="https://github-profile-trophy.vercel.app/?username=cychenhaibin" />
-</div>
 <h2 align="center">👋 Hey! I'm chenhaibin. 🐘</h2>
 <br />
 <h1 align="center">
@@ -57,7 +43,10 @@
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
-
+### My CSDN
+<div align="left">
+	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
+</div>
 #### Top Repositories
 
 
