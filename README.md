@@ -5,9 +5,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
-**cychenhaibin/cychenhaibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in CQUPT 
 - 🌱 I’m currently learning Machine learning algorithm and Front-end
@@ -30,11 +27,10 @@ Here are some ideas to get you started:
 <!--GitHub 连续打卡-->
 <div align="left">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=cychenhaibin" />
-</div>
-
-<div align="right">
 	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
 </div>
+
+
 
 <!--GitHub 统计卡片-->
 <div align="left">
