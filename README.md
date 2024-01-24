@@ -36,8 +36,9 @@
 
 ### My language
 <div align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?	username=cychenhaibin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?	username=cychenhaibin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
 ### My CSDN
 <div align="left">
 	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
