@@ -43,7 +43,7 @@
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
 ![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 
 
@@ -51,7 +51,8 @@
 
 <table border=0>
   <tr>
-    <td><img src="https://stats.justsong.cn/api/csdn?id=m0_73592256"&hide_border=true" alt="cychenhaibin的CSDN" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="cychenhaibin's GitHub stats" style="zoom:100%;" align="left"/></td>
+
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=336888011687869&hide_border=true" alt="cychenhaibin的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>     
