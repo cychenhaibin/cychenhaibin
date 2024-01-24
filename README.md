@@ -17,7 +17,7 @@
 - ⚡ Fun fact: all
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
+<img align="center" src="./assets/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](3242477764@qq.com)
