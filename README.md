@@ -3,12 +3,12 @@
 ### 你好，世界 👋
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=cychenhaibin&theme=xcode" />
 </div>
 
 <div align="center">
@@ -20,13 +20,13 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 <div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+	<img  src="https://visitor-badge.glitch.me/badge?page_id=cychenhaibin" />
 </div>
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=cychenhaibin&theme=xcode" />
 </div>
 <div align="center">
-	<img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+	<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256">
 </div>
 
 
