@@ -62,9 +62,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/cychenhaibin/K-means-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cychenhaibin&repo=K-means-Algorithm&theme=buefy" />
-</a>
+
 <a href="https://github.com/cychenhaibin/Shop_Vue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cychenhaibin&repo=Shop_Vue&theme=buefy" />
 </a>
