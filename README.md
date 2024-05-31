@@ -19,9 +19,8 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-<p align="center">
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
-</p>
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
