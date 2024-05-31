@@ -24,6 +24,65 @@
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
 
 
+<p align="center>
+<!-- GitHub Badge -->
+<a href="https://github.com/cychenhaibin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<!-- Email Badge -->
+<a href="mailto:3242477764@qq.com">
+  <img src="https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru" alt="Email">
+</a>
+
+<!-- CSDN Badge -->
+<a href="https://blog.csdn.net/m0_73592256">
+  <img src="https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg" alt="CSDN">
+</a>
+
+<!-- Profile Views Badge -->
+<img src="https://views.whatilearened.today/views/github/Xuenew/views.svg" alt="Profile views">
+
+<!-- Ubuntu Badge -->
+<img src="https://img.shields.io/badge/ubuntu-20.04-E95420.svg" alt="Ubuntu">
+
+<!-- Linux Badge -->
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+
+<!-- Visual Studio Code Badge -->
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code" alt="Visual Studio Code">
+
+<!-- Git Badge -->
+<img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
+
+<!-- HTML Badge -->
+<img src="https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+
+<!-- CSS Badge -->
+<img src="https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3" alt="CSS">
+
+<!-- JavaScript Badge -->
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript" alt="JavaScript">
+
+<!-- Vue.js Badge -->
+<img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js" alt="Vue.js">
+
+<!-- Redis Badge -->
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+
+<!-- Nginx Badge -->
+<img src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx" alt="Nginx">
+
+<!-- MySQL Badge -->
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black" alt="MySQL">
+
+<!-- Elasticsearch Badge -->
+<img src="https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white" alt="Elasticsearch">
+
+<!-- Cocos Creator Badge -->
+<img src="https://img.shields.io/badge/Cocos%20creator-blue.svg" alt="Cocos Creator">
+
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](3242477764@qq.com)
