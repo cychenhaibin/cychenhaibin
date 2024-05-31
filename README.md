@@ -1,11 +1,6 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20cychenhaibin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
-
-
-                        
-原文链接：https://blog.csdn.net/weixin_62651706/article/details/137957144
 <br />
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
