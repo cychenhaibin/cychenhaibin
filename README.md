@@ -61,7 +61,9 @@
 
 <!-- Git Badge -->
 <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
+</p>
 
+<p align="center">
 <!-- HTML Badge -->
 <img src="https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 
