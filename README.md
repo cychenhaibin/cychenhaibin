@@ -11,7 +11,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={cychenhaibin}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
