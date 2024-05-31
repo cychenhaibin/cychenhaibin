@@ -47,9 +47,6 @@
   <img src="https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg" alt="CSDN">
 </a>
 
-<!-- Profile Views Badge -->
-<img src="https://views.whatilearened.today/views/github/Xuenew/views.svg" alt="Profile views">
-
 <!-- Ubuntu Badge -->
 <img src="https://img.shields.io/badge/ubuntu-20.04-E95420.svg" alt="Ubuntu">
 
