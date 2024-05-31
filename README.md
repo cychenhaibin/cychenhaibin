@@ -5,7 +5,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cychenhaibin)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={cychenhaibin}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
 
