@@ -22,7 +22,7 @@
 <br/>
 
 <!-- GitHub Activity Graph -->
-<p align="center>
+<p align="center">
 <a href="https://github.com/cychenhaibin">
   <img src="https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg" alt="HuiDBK's github activity graph">
 </a>
@@ -31,7 +31,7 @@
 <!-- ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg) -->
 
 
-<p align="center>
+<p align="center">
 <!-- GitHub Badge -->
 <a href="https://github.com/cychenhaibin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -121,9 +121,15 @@
 <br/>
 
 ### CSDN
-![](https://stats.justsong.cn/api/csdn?id=m0_73592256&theme=write)
+<!-- ![](https://stats.justsong.cn/api/csdn?id=m0_73592256&theme=write) -->
 
-#### Top Repositories
+<p align="center">
+	<!-- CSDN Stats -->
+<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256&theme=write" alt="CSDN Stats">
+
+</p>
+
+### Top Repositories
 
 <a href="https://github.com/cychenhaibin/K-means-Algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cychenhaibin&repo=K-means-Algorithm&theme=buefy" />
