@@ -52,7 +52,7 @@
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="cychenhaibin's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=336888011687869&hide_border=true" alt="cychenhaibin的掘金数据" style="zoom:100%;" align="left"/></td>
+    
   </tr>
 </table>
 
