@@ -5,8 +5,10 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-<img align="right" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
+<img align="right" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cychenhaibin&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 - 🔭 I’m currently studying in CQUPT 
 - 🌱 I’m currently learning Machine learning algorithm and Front-end
 - 👯 I’m looking to collaborate on ...
