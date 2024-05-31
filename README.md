@@ -84,7 +84,7 @@
 
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin) -->
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](3242477764@qq.com)
 [![](https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg)](https://blog.csdn.net/m0_73592256)
 ![Profile views](https://views.whatilearened.today/views/github/Xuenew/views.svg)
