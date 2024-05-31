@@ -8,7 +8,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cychenhaibin)](https://git.io/streak-stats)
 
 
-<img align="right" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cychenhaibin&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
 - 🔭 I’m currently studying in CQUPT 
 - 🌱 I’m currently learning Machine learning algorithm and Front-end
 - 👯 I’m looking to collaborate on ...
