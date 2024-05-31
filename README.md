@@ -13,17 +13,12 @@
 </h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={cychenhaibin}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
-
-
-- 🔭 I’m currently studying in CQUPT 
-- 🌱 I’m currently learning Machine learning algorithm and Front-end
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: haibinChenleo@outlook.com or haibinChenleo@gmail.com
-- 😄 Pronouns: confidential
-- ⚡ Fun fact: all
-
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg)
 
