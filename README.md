@@ -29,11 +29,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<!-- Email Badge -->
-<a href="mailto:3242477764@qq.com">
-  <img src="https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru" alt="Email">
-</a>
-
 <!-- CSDN Badge -->
 <a href="https://blog.csdn.net/m0_73592256">
   <img src="https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg" alt="CSDN">
