@@ -24,20 +24,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
 </p>
 
 
-
-
-
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-<a href="https://github.com/cychenhaibin">
-  <img src="https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg" alt="HuiDBK's github activity graph">
-</a>
-</p>
-
-<!-- ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg) -->
-
-
 <p align="center">
 <!-- GitHub Badge -->
 <a href="https://github.com/cychenhaibin">
@@ -97,6 +83,20 @@ and I am currently a front-end member of the Blue Mountain Studio.
 
 </p>
 
+
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+<a href="https://github.com/cychenhaibin">
+  <img src="https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg" alt="HuiDBK's github activity graph">
+</a>
+</p>
+
+<!-- ![HuiDBK's github activity graph](https://raw.githubusercontent.com/cychenhaibin/cychenhaibin/output/github-contribution-grid-snake.svg) -->
+
+
+
+
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cychenhaibin) -->
 <!-- [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](3242477764@qq.com) -->
 <!-- [![](https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg)](https://blog.csdn.net/m0_73592256) -->
@@ -115,16 +115,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
 <!-- ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Cocos%20creator-blue.svg) -->
 
-<p align="center">
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=cychenhaibin&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cychenhaibin&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychenhaibin&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
-<br/>
 
 
 
