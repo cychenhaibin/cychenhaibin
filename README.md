@@ -10,20 +10,33 @@
 	</a>
 </h1>
 
-<div>
-<div align="left">
-My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
-</div>
 
-<div align="right">
+<!-- <div align="left"> -->
+<!-- My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. -->
+<!-- </div> -->
+
+<!-- <div align="right">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-</div>
+<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> -->
+<!-- </div> -->
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 <!-- </p> --> 
-</div>
-<br/>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <div align="left">
+        My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
+      </div>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <div align="right">
+        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
