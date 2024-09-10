@@ -11,7 +11,10 @@
 </h1>
 
 <p align="left"> 
-My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. 
+My name is Chen Haibin, 
+</br>	
+
+I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. 
 </p>
 
 <p align="right">
