@@ -15,8 +15,20 @@
 My name is Chen Haibin, 	
 I am a 2026 undergraduate student 	
 majoring in computer science and technology at Chongqing University of Posts and Telecommunications, 
-and I am currently a front-end member of the Blue Mountain Studio. 
-</div>
+and I apm currently a front-end member of the Blue Mountain Studio. 
+</p>
+<p align="left">
+🏠housetown：Chongqing
+</p>
+<p align="left">
+📬email：haibinchenleo@gmail.com
+</p>
+<p align="left">
+📎blog：https://cychenhaibin.github.io
+</p>
+<p align="left">
+🚀Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpack、ES6、Canvas、TypeScript、Vue、uniapp
+</p>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> 
