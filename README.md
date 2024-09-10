@@ -10,10 +10,13 @@
 	</a>
 </h1>
 
-<div style="display:flex; justify-content:space-between;">
-<div style="flex:1;white-space:normal;"> 
-My name is Chen Haibin, 
-I am a 2026 undergraduate student 
+<p align="left">
+My name is Chen Haibin, 	
+</p>
+<p align="left">
+I am a 2026 undergraduate student 	
+</p>
+
 majoring in computer science and technology at Chongqing University of Posts and Telecommunications, 
 and I am currently a front-end member of the Blue Mountain Studio. 
 </div>
