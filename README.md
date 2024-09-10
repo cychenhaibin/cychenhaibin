@@ -10,26 +10,20 @@
 	</a>
 </h1>
 
+<div align="left"> 
+My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. 
+</div>
 
-<!-- <div align="left"> -->
-<!-- My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. -->
-<!-- </div> -->
-
-<!-- <div align="right">
+<div align="right">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> -->
-<!-- </div> -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> 
+</div>
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 <!-- </p> --> 
 
 
-My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
 
-    <div align="right">
-      <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-    </div>
-  
 
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -128,26 +122,6 @@ My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer s
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cychenhaibin&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 <br/>
-
-### CSDN
-<!-- ![](https://stats.justsong.cn/api/csdn?id=m0_73592256&theme=write) -->
-
-<p align="center">
-	<!-- CSDN Stats -->
-<img src="https://stats.justsong.cn/api/csdn?id=m0_73592256&theme=write" alt="CSDN Stats">
-
-</p>
-
-### Top Repositories
-
-<a href="https://github.com/cychenhaibin/K-means-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cychenhaibin&repo=K-means-Algorithm&theme=buefy" />
-</a>
-
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
 
 
 
