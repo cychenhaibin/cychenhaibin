@@ -18,19 +18,24 @@ majoring in computer science and technology at Chongqing University of Posts and
 and I apm currently a front-end member of the Blue Mountain Studio. 
 </p>
 <p align="left">
-🏠 Housetown：Chongqing
+🏠 
+Housetown：Chongqing
 </p>
 <p align="left">
-⏰ Times：2024-2-28 to now
+⏰ 
+Times：2024-2-28 to now
 </p>
 <p align="left">
-📬  Email：haibinchenleo@gmail.com
+📬  
+Email：haibinchenleo@gmail.com
 </p>
 <p align="left">
-📎 Blog：https://cychenhaibin.github.io
+📎 
+Blog：https://cychenhaibin.github.io
 </p>
 <p align="left">
-🚀 Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpack、ES6、Canvas、TypeScript、Vue、uniapp
+🚀 
+Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpack、ES6、Canvas、TypeScript、Vue、uniapp
 </p>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
