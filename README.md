@@ -9,15 +9,15 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小陈同学祝你今天愉快!&center=true&size=27">
 	</a>
 </h1>
-
+<p align="right">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> 
+</p>
 <p align="left"> 
 My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio. 
 
 
-<!-- <p align="right"> -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> 
-</p>
+
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 <!-- </p> --> 
