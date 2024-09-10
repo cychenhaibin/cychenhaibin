@@ -24,7 +24,7 @@ and I apm currently a front-end member of the Blue Mountain Studio.
 ⏰ Times：2024-2-28 to now
 </p>
 <p align="left">
-📬 Email：haibinchenleo@gmail.com
+📬  Email：haibinchenleo@gmail.com
 </p>
 <p align="left">
 📎 Blog：https://cychenhaibin.github.io
