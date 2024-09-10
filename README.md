@@ -24,13 +24,11 @@
 <!-- </p> --> 
 
 
-    <span align="left">
-      My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
-    </span>
-  
-    <span align="right">
+My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
+
+    <p align="right">
       <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-    </span>
+    </p>
   
 
 <!-- GitHub Activity Graph -->
