@@ -46,8 +46,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
 <!-- Linux Badge -->
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 
-<!-- Visual Studio Code Badge -->
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code" alt="Visual Studio Code">
 
 <!-- Git Badge -->
 <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
@@ -66,9 +64,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
 <!-- Vue.js Badge -->
 <img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js" alt="Vue.js">
 
-<!-- Redis Badge -->
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-
 <!-- Nginx Badge -->
 <img src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx" alt="Nginx">
 
@@ -77,9 +72,6 @@ and I am currently a front-end member of the Blue Mountain Studio.
 
 <!-- Elasticsearch Badge -->
 <img src="https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white" alt="Elasticsearch">
-
-<!-- Cocos Creator Badge -->
-<img src="https://img.shields.io/badge/Cocos%20creator-blue.svg" alt="Cocos Creator">
 
 </p>
 
