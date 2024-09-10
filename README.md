@@ -11,6 +11,7 @@
 </h1>
 
 <p align="left">
+	:blush:
 My name is Chen Haibin, 	
 I am a 2026 undergraduate student 	
 majoring in computer science and technology at Chongqing University of Posts and Telecommunications, 
