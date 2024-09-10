@@ -25,8 +25,8 @@ My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer s
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-</p> -->
+<!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
+<!-- </p> --> 
 <br/>
 
 <!-- GitHub Activity Graph -->
