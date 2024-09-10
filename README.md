@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
-	Chongqing University of Posts and Telecommunications is a 2026 undergraduate student majoring in computer science and technology, a front-end member of the Blue Mountain Studio, and a cut-to-the-top boy
+<p align="left">
+My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
 
 </p>
 
