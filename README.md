@@ -10,6 +10,7 @@
 	</a>
 </h1>
 
+<div style="display:flex; justify-content:space-between;">
 <p align="left"> 
 My name is Chen Haibin, 
 I am a 2026 undergraduate student 
@@ -20,6 +21,7 @@ and I am currently a front-end member of the Blue Mountain Studio.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> 
 </p>
+</div>
 
 
 <!-- <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
