@@ -23,20 +23,18 @@
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 <!-- </p> --> 
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <div align="left">
-        My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
-      </div>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <div align="right">
-        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span style="flex: 1; padding: 10px; box-sizing: border-box;">
+    <div align="left">
+      My name is Chen Haibin, I am a 2026 undergraduate student majoring in computer science and technology at Chongqing University of Posts and Telecommunications, and I am currently a front-end member of the Blue Mountain Studio.
+    </div>
+  </span>
+  <span style="flex: 1; padding: 10px; box-sizing: border-box;">
+    <div align="right">
+      <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=cychenhaibin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+    </div>
+  </span>
+</div>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
