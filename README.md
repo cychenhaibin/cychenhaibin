@@ -50,6 +50,10 @@ Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpa
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- CSDN Badge -->
 <a href="https://blog.csdn.net/m0_73592256">
   <img src="https://img.shields.io/badge/CSDN-我就告诉过你我会飞-blue.svg" alt="CSDN">
