@@ -44,15 +44,14 @@ Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpa
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=cychenhaibin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
 <!-- GitHub Badge -->
 <a href="https://github.com/cychenhaibin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-START_SECTION:waka
-END_SECTION:waka
-
 
 <!-- CSDN Badge -->
 <a href="https://blog.csdn.net/m0_73592256">
