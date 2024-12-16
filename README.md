@@ -31,7 +31,9 @@ Email：haibinchenleo@gmail.com
 </p>
 <p align="left">
 📎 
-Blog：https://cychenhaibin.github.io
+Blog：https://cychenhaibin.github.io <br/>
+
+语雀：https://www.yuque.com/chenhaibin-qlrhf
 </p>
 <p align="left">
 🚀 
