@@ -29,10 +29,12 @@ Times：2024-2-28 to now
 📬  
 Email：haibinchenleo@gmail.com
 </p>
+<!--
 <p align="left">
 📎 
 Blog：https://cychenhaibin.github.io 
 </p>
+-->
 
 <p align="left">
 📎 
