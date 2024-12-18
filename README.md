@@ -36,10 +36,13 @@ Blog：https://cychenhaibin.github.io
 </p>
 -->
 
+<!--
 <p align="left">
 📎 
 语雀：https://www.yuque.com/chenhaibin-qlrhf
 </p>
+-->
+
 <p align="left">
 🚀 
 Tech stack：HTML、CSS、JavaScript、H5C3、jQuery、Node.js、ECharts、webpack、ES6、Canvas、TypeScript、Vue、uniapp
